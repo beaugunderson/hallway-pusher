@@ -35,7 +35,7 @@
     "chai": "1.1.x",
     "colors": "",
     "compress-buffer": "",
-    "connect": "=1.8.5",
+    "connect": "=3.7.0",
     "cover": "https://github.com/kristjan/node-cover/tarball/master",
     "db-migrate": "https://github.com/Singly/node-db-migrate/tarball/master",
     "ejs": "=0.4.3",
